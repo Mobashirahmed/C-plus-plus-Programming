@@ -1,0 +1,24 @@
+.exe
+*.vscode
+*.exe
+# Compiled Object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.dll
+*.so
+
+# Temporary files
+*.tmp
+*.swp
+*~
+*.bak
+
+# Build directories
+/build/
+/bin/
+/Debug/
+/Release/

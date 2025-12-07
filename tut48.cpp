@@ -37,7 +37,7 @@ class Base2{
             cout << "Base2 Constructor called"<<endl;
         }
         void printDataBase2(void){
-            cout << "The value of data1 is "<< data2 <<endl;
+            cout << "The value of data2 is "<< data2 <<endl;
         }
 };
 
